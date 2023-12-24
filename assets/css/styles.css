@@ -373,6 +373,11 @@ footer {
     width: 20.5rem;
   }
 
+  header h1{
+    padding: 1rem 1rem;
+    text-align: center;
+  }
+
   .more-about {
     /* margin-top: 2rem; */
     padding: 1rem 1rem;
