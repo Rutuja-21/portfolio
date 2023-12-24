@@ -2,7 +2,7 @@
 
 A portfolio website template for campers
 
-![Rutuja-Arekar](Rutuja-Arekar.png)
+![Rutuja-Arekar](Rutuja-Arekar.PNG)
 
 
 ## Github repo
