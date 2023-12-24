@@ -27,7 +27,6 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* border: 2px solid red; */
 }
 
 ul {
@@ -137,6 +136,7 @@ nav ul li {
   padding: 1rem 1rem;
   color: var(--primary-color);
   text-align: justify;
+  font-size: 16px;
 }
  
 
@@ -374,16 +374,8 @@ footer {
   }
 
   .more-about {
-    margin-top: 2rem;
-    padding: 1rem 3.5rem;
-  }
-
-  .more-about h2 {
-    text-align: center;
-  }
-
-  .more-about p {
-    text-align: justify;
+    /* margin-top: 2rem; */
+    padding: 1rem 1rem;
   }
 
   .icon {
