@@ -1,6 +1,6 @@
 # DEVELOPER PORTFOLIO
 
-A portfolio website template for campers
+A portfolio website
 
 ![Rutuja-Arekar](Rutuja-Arekar.PNG)
 
